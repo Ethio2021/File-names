@@ -96,5 +96,4 @@
 14b10Nb_0.wav
 16a01Fc_0.wav
 16a01Nc_0.wav
-16a02Nb_0.wav
 16a04Fa_0.wav
